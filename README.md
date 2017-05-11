@@ -7,8 +7,8 @@ This uses the at90usb1286 microcontroller to implement a countdown and count up 
 - PE2 for down
 - PE4 for up
 
-=> Dependencies
-- avr-gcc
+=> Other requirements
+- LCD screen with controller
 
 => How to Build
 - Run 'make' in the bash command line
