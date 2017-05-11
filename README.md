@@ -18,7 +18,7 @@ This uses the at90usb1286 microcontroller to implement a countdown and count up 
 - LCD libraries with thanks to Steve Gunn
 
 => License
-Work is available using the MIT license. 
+My code is available using the MIT license. 
 
 Copyright 2017 Alexander Stonard
 
